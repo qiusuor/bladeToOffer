@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "在二叉查找树中插入节点", "在二叉查找树中插入节点\在二叉查找树中插入节点.vcxproj", "{CA4A349C-57D7-433F-81F8-C16B82F3CB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4A349C-57D7-433F-81F8-C16B82F3CB02}.Debug|x64.ActiveCfg = Debug|x64
+		{CA4A349C-57D7-433F-81F8-C16B82F3CB02}.Debug|x64.Build.0 = Debug|x64
+		{CA4A349C-57D7-433F-81F8-C16B82F3CB02}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA4A349C-57D7-433F-81F8-C16B82F3CB02}.Debug|x86.Build.0 = Debug|Win32
+		{CA4A349C-57D7-433F-81F8-C16B82F3CB02}.Release|x64.ActiveCfg = Release|x64
+		{CA4A349C-57D7-433F-81F8-C16B82F3CB02}.Release|x64.Build.0 = Release|x64
+		{CA4A349C-57D7-433F-81F8-C16B82F3CB02}.Release|x86.ActiveCfg = Release|Win32
+		{CA4A349C-57D7-433F-81F8-C16B82F3CB02}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2055894-997D-407A-AE69-2A34778E28A3}
+	EndGlobalSection
+EndGlobal

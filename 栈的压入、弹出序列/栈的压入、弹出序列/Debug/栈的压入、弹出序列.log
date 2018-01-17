@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\qiusuo\source\repos\栈的压入、弹出序列\栈的压入、弹出序列\源.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\qiusuo\source\repos\栈的压入、弹出序列\栈的压入、弹出序列\源.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+  栈的压入、弹出序列.vcxproj -> C:\Users\qiusuo\source\repos\栈的压入、弹出序列\Debug\栈的压入、弹出序列.exe
+  栈的压入、弹出序列.vcxproj -> C:\Users\qiusuo\source\repos\栈的压入、弹出序列\Debug\栈的压入、弹出序列.pdb (Partial PDB)
